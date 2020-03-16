@@ -1,0 +1,269 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -5.720230, 40.995393 ]
+    },
+    "properties": {
+    "Facility":"CLPU",
+    "City":" Salamanca",
+    "Country":" Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  140.101813, 35.635880 ]
+    },
+    "properties": {
+    "Facility":"QST",
+    "City":" Chiba",
+    "Country":" Japan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.525720, 52.431729 ]
+    },
+    "properties": {
+    "Facility":"MBI",
+    "City":" Berlin",
+    "Country":" Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  2.218050, 48.711113 ]
+    },
+    "properties": {
+    "Facility":"LOA",
+    "City":" Paris",
+    "Country":" France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -97.734258 , 30.284549 ]
+    },
+    "properties": {
+    "Facility":"Texas",
+    "City":" Austin",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.250001 , 37.876164 ]
+    },
+    "properties": {
+    "Facility":"LBNL",
+    "City":" Berkeley",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -72.875254, 40.864547 ]
+    },
+    "properties": {
+    "Facility":"BNL",
+    "City":" Brookheaven",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -83.738095 , 42.277988 ]
+    },
+    "properties": {
+    "Facility":"Michigan",
+    "City":" Ann Arbor",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -77.017958 , 38.823329 ]
+    },
+    "properties": {
+    "Facility":"NRL",
+    "City":" Washington",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.209305 , 55.712388 ]
+    },
+    "properties": {
+    "Facility":"Lund",
+    "City":" Lund",
+    "Country":" Sweden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.314656 , 51.574040 ]
+    },
+    "properties": {
+    "Facility":"RAL",
+    "City":" Didcot",
+    "Country":" UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.445294 , 34.068388 ]
+    },
+    "properties": {
+    "Facility":"UCLA",
+    "City":" Los Angeles",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  126.839966 , 35.226800 ]
+    },
+    "properties": {
+    "Facility":"GIST",
+    "City":" Gwuanju",
+    "Country":" South Korea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.705918 , 37.687210 ]
+    },
+    "properties": {
+    "Facility":"LLNL",
+    "City":" Livermore",
+    "Country":" USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  11.671949 , 48.263359 ]
+    },
+    "properties": {
+    "Facility":"MPI",
+    "City":" Garchin",
+    "Country":" Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.817123 , 44.722282 ]
+    },
+    "properties": {
+    "Facility":"CEA",
+    "City":" Cestas",
+    "Country":" France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  14.465481 , 50.128047 ]
+    },
+    "properties": {
+    "Facility":"PALS",
+    "City":" Prague",
+    "Country":" Czech Republic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -73.565714 , 45.499794 ]
+    },
+    "properties": {
+    "Facility":"INRS",
+    "City":" Montreal",
+    "Country":" Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  72.806692 , 18.913729 ]
+    },
+    "properties": {
+    "Facility":"TIFR",
+    "City":" Mumbai",
+    "Country":" India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  75.791400 , 22.665625 ]
+    },
+    "properties": {
+    "Facility":"RRCAT",
+    "City":" Indore",
+    "Country":" India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  9.228458 , 45.479044 ]
+    },
+    "properties": {
+    "Facility":"POLIMI",
+    "City":" Milan",
+    "Country":" Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  121.236583 , 31.378357 ]
+    },
+    "properties": {
+    "Facility":"SIOM",
+    "City":" Shanghai",
+    "Country":" China"
+    }
+  }
+]
+}
