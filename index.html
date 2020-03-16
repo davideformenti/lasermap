@@ -15,7 +15,7 @@
     var path = d3.geoPath().projection(projection);
 
     var url = "https://aeriforme.github.io/lasermap/countries.geojson";
-    var data_url = "http://enjalot.github.io/wwsd/data/world/ne_50m_populated_places_simple.geojson";
+    var data_url = "https://aeriforme.github.io/lasermap/facilities.geojson";
     
     Promise.all([d3.json(url), d3.json(data_url)]).then(function(data) {
       var world = data[0];
@@ -30,9 +30,7 @@
       	.data(places.features)
       .enter()
       	.append("circle")
-      	.attr("r", function(d) {
-        	return d.properties.pop_max / 1000000;
-      	})
+      	.attr("r", "10px")
       	.attr("cx", function(d) {
         	return projection(d.geometry.coordinates)[0]
       	})
@@ -45,9 +43,7 @@
       window.setTimeout(function() {
         svg.selectAll("circle")
         	.transition().duration(5000)
-        	.attr("r", function(d) {
-          	return d.properties.pop_min / 1000000;
-        	});
+        	.attr("r", "10px");
       }, 5000);
     });
     
